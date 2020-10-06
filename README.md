@@ -1,1 +1,1 @@
-# JavaScript_Core_Practice
+# JavaScript Core Practice
