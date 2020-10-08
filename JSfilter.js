@@ -1,3 +1,4 @@
+
 //Extract unique objects by attribute from array of objects.
 Objects=[{
   name:'geeks',
@@ -50,9 +51,10 @@ console.log(array.filter(isPrime));
 
 const fruits = ['apple', 'banana', 'grapes', 'mango', 'orange']
 
-/**
- * Filter array items based on search criteria (query)
- */
+
+ //Filter array items based on search criteria (query)
+ 
+//ES2015 Implementation
 const filterItems = (arr, query) => {
   return arr.filter(el => el.toLowerCase().indexOf(query.toLowerCase()) !== -1)
 }
@@ -80,3 +82,23 @@ let refomatted = Array.map(obj => {
 
 console.log(refomatted);
 console.log(Array);
+
+
+let words = ['spray', 'limit', 'exuberant', 'destruction', 'elite', 'present']
+
+// const modifiedWords = words.filter((word, index, arr) => {
+   
+//     arr[index+2] += ' extra'
+  
+//     return word.length<6
+// })
+
+
+const appendedWords = words.filter((word, index, arr) => {
+    arr.push('new')
+    console.log(arr);
+    console.log(word.length)
+    return word.length < 6;
+})
+
+//console.log(appendedWords);
