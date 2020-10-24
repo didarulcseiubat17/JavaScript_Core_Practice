@@ -1,1 +1,1 @@
-JS Learning is Progress
+JS Learning in Progress
