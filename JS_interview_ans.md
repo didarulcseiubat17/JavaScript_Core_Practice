@@ -111,6 +111,20 @@ Because of the event queue in JavaScript, the `setTimeout` callback function is 
 In the second loop, the variable `i` was declared using the `let` keyword: variables declared with the `let` (and `const`) keyword are block-scoped (a block is anything between `{ }`). During each iteration, `i` will have a new value, and each value is scoped inside the loop.
 
 </p>
+
+<p>References</p>
+[How does let in for loop work?](https://stackoverflow.com/questions/31793924/how-does-let-in-for-loop-work)
+
+[Explanation of `let` and block scoping with for loops](https://stackoverflow.com/questions/30899612/explanation-of-let-and-block-scoping-with-for-loops)
+
+[What's the difference between using “let” and “var”?](https://stackoverflow.com/questions/762011/whats-the-difference-between-using-let-and-var)
+
+[JavaScript Demo: Statement - Let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
+
+[For loop, let i and setTimeout - how exactly does it work? | Javascript In depth, from spec](https://www.youtube.com/watch?v=LRWA9rdcK8o)
+
+[ let vs var - Topics of JavaScript/ES6](https://www.youtube.com/watch?v=q8SHaDQdul0)
+ 
 </details>
 
 ---
