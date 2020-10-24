@@ -26,6 +26,12 @@ https://github.com/getify/You-Dont-Know-JS
 
 https://github.com/mtdvio/every-programmer-should-know
 
+https://www.javatpoint.com/git-interview-questions
+
+https://www.git-tower.com/learn/git/faq/git-interview-questions/
+
+https://svrtechnologies.com/top-50-devops-git-interview-questions-and-answers-pdf/
+
 
 
 
