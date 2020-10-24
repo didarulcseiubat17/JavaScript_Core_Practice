@@ -113,6 +113,7 @@ In the second loop, the variable `i` was declared using the `let` keyword: varia
 </p>
 
 <p>References</p>
+
 [How does let in for loop work?](https://stackoverflow.com/questions/31793924/how-does-let-in-for-loop-work)
 
 [Explanation of `let` and block scoping with for loops](https://stackoverflow.com/questions/30899612/explanation-of-let-and-block-scoping-with-for-loops)
