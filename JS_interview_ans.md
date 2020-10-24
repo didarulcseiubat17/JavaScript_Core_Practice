@@ -72,12 +72,15 @@ Within the function, we first declare the `name` variable with the `var` keyword
 Variables with the `let` keyword (and `const`) are hoisted, but unlike `var`, don't get <i>initialized</i>. They are not accessible before the line we declare (initialize) them. This is called the "temporal dead zone". When we try to access the variables before they are declared, JavaScript throws a `ReferenceError`.
 
 </p>
+
 <p>References</p>
-  *[Variable javascript.info] (https://javascript.info/variables)
 
-  *[w3school] (https://www.w3schools.com/js/js_variables.asp)
+  [Variable javascript.info] (https://javascript.info/variables)
 
-  *[MDN] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var)
+  [w3school] (https://www.w3schools.com/js/js_variables.asp)
+
+  [MDN] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var)
+  
 </details>
 
 ---
