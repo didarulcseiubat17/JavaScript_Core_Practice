@@ -75,12 +75,12 @@ Variables with the `let` keyword (and `const`) are hoisted, but unlike `var`, do
 
 <p>References</p>
 
-  [Variable javascript.info] (https://javascript.info/variables)
+  [Variable javascript.info](https://javascript.info/variables)
 
-  [w3school] (https://www.w3schools.com/js/js_variables.asp)
+  [w3school](https://www.w3schools.com/js/js_variables.asp)
 
-  [MDN] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var)
-  
+  [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var)
+
 </details>
 
 ---
