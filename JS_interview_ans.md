@@ -125,6 +125,10 @@ In the second loop, the variable `i` was declared using the `let` keyword: varia
 [For loop, let i and setTimeout - how exactly does it work? | Javascript In depth, from spec](https://www.youtube.com/watch?v=LRWA9rdcK8o)
 
 [ let vs var - Topics of JavaScript/ES6](https://www.youtube.com/watch?v=q8SHaDQdul0)
+
+[Scoping in JavaScript For Loops](https://medium.com/better-programming/scoping-in-javascript-for-loops-c5ffac6aa92b)
+
+[Use let with for Loops in JavaScript](https://wesbos.com/for-of-es6)
  
 </details>
 

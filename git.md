@@ -32,6 +32,9 @@ https://www.git-tower.com/learn/git/faq/git-interview-questions/
 
 https://svrtechnologies.com/top-50-devops-git-interview-questions-and-answers-pdf/
 
+https://www.interviewcake.com/question/java/js-scope
+
+https://medium.com/javascript-in-plain-english/javascript-interview-questions-functions-and-scope-8c8793f2ef5d
 
 
 
