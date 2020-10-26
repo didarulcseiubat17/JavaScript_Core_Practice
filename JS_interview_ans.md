@@ -166,6 +166,42 @@ With arrow functions, the `this` keyword refers to its current surrounding scope
 There is no value `radius` on that object, which returns `NaN`.
 
 </p>
+
+<p>References</p>
+
+[5 Differences Between Arrow and Regular Functions](https://dmitripavlutin.com/differences-between-arrow-and-regular-functions/)
+
+[Difference between regular functions and arrow functions](https://www.geeksforgeeks.org/difference-between-regular-functions-and-arrow-functions/)
+
+[Arrow functions in JavaScript](https://www.geeksforgeeks.org/arrow-functions-in-javascript/?ref=rp)
+
+[Higher-Order Arrow Functions in JavaScript](https://www.geeksforgeeks.org/higher-order-arrow-functions-in-javascript/?ref=rp)
+
+[Lexical scoping](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+
+[What is lexical scope?](https://stackoverflow.com/questions/1047454/what-is-lexical-scope)
+
+[What You Should Already Know about JavaScript Scope](https://spin.atomicobject.com/2014/10/20/javascript-scope-closures/)
+
+[JavaScript Environment, Lexical Scope and Closures](https://medium.com/@iampika/javascript-environment-lexical-scope-and-closures-9c8dfaeff73d)
+
+[A Brief Introduction to Closures and Lexical Scoping in JavaScript](https://medium.com/better-programming/a-brief-introduction-to-closures-and-lexical-scoping-in-javascript-8a5866496232)
+
+[Rest parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)
+
+[Rest parameters and spread syntax](https://javascript.info/rest-parameters-spread)
+
+[JavaScript | Rest parameter](https://www.geeksforgeeks.org/javascript-rest-operator/)
+
+[Arrow vs Normal functions - Intermediate JavaScript](https://www.youtube.com/watch?v=ONdoSoFDvXI)
+
+[Arrow function and this keyword in javascript](https://www.youtube.com/watch?v=tANuyOClBIY)
+
+[Understanding "this" in javascript with arrow functions](https://www.codementor.io/@dariogarciamoya/understanding-this-in-javascript-with-arrow-functions-gcpjwfyuc)
+
+[The Difference Between Regular Functions and Arrow Functions](https://medium.com/better-programming/difference-between-regular-functions-and-arrow-functions-f65639aba256)
+
+
 </details>
 
 ---
