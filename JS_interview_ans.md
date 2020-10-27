@@ -387,6 +387,7 @@ The `colorChange` function is static. Static methods are designed to live only o
 
 [Object-Oriented Programming in Javascript(ES5 & ES6) EXPLAINED.](https://dev.to/orighoprecious/object-oriented-programming-in-javascript-es5-es6-explained-4jbk)
 
+[Class basic syntax](https://javascript.info/class)
 </details>
 
 ---
@@ -538,6 +539,25 @@ During the **capturing** phase, the event goes through the ancestor elements dow
 <img src="https://i.imgur.com/N18oRgd.png" width="200">
 
 </p>
+
+<p>References</p>
+
+[Introduction to Events](https://javascript.info/events)
+
+[Introduction to browser events](https://javascript.info/introduction-browser-events)
+
+[Bubbling and capturing](https://javascript.info/bubbling-and-capturing)
+
+[Event Bubbling, Capturing aka Trickling in Javascript | Oyo UI/Frontend Interview Question](https://www.youtube.com/watch?v=aVSf0b1jVKk&t=34s)
+
+[Event Propagation Explained](https://www.youtube.com/watch?v=BtOrr7oTH_8)
+
+[What is event bubbling and capturing?](https://stackoverflow.com/questions/4616694/what-is-event-bubbling-and-capturing)
+
+[Phases of JavaScript Event](https://www.geeksforgeeks.org/phases-of-javascript-event/)
+
+[Event.eventPhase](https://developer.mozilla.org/en-US/docs/Web/API/Event/eventPhase)
+
 </details>
 
 ---
@@ -550,6 +570,15 @@ During the **capturing** phase, the event goes through the ancestor elements dow
 <details><summary><b>Answer</b></summary>
 <p>
 
+<p>References</p>
+
+[What is base object](https://stackoverflow.com/questions/56659303/what-is-base-object-in-javascript)
+
+[Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
+
+[Object() constructor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/Object)
+
+[JavaScript | Object Constructors](https://www.geeksforgeeks.org/javascript-object-constructors/)
 #### Answer: B
 
 All objects have prototypes, except for the **base object**. The base object is the object created by the user, or an object that is created using the `new` keyword. The base object has access to some methods and properties, such as `.toString`. This is the reason why you can use built-in JavaScript methods! All of such methods are available on the prototype. Although JavaScript can't find it directly on your object, it goes down the prototype chain and finds it there, which makes it accessible for you.

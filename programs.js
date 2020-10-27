@@ -44,18 +44,48 @@
 // var x7 = function () { };  // new function object
 
 
-class Chameleon {
-    static colorChange(newColor) {
-        this.newColor = newColor;
-        return this.newColor;
-    }
+// class Chameleon {
+//     static colorChange(newColor) {
+//         this.newColor = newColor;
+//         return this.newColor;
+//     }
 
-    constructor({ newColor = 'green' } = {}) {
-        this.newColor = newColor;
-    }
+//     constructor({ newColor = 'green' } = {}) {
+//         this.newColor = newColor;
+//     }
+// }
+
+// const freddie = new Chameleon();
+// console.log(typeof freddie);
+// console.log(freddie.newColor);
+// //console.log(freddie.colorChange('orange'));
+
+
+// class Person {
+//     constructor(firstName, lastName) {
+//         this.firstName = firstName;
+//         this.lastName = lastName;
+//     }
+//      getFullName() {
+//         return `${this.firstName} ${this.lastName}`;
+//     }
+// }
+
+// const member = new Person('Lydia', 'Hallie');
+
+// console.log(member.getFullName());
+
+function Person(firstName, lastName) {
+    this.firstName = firstName;
+    this.lastName = lastName;
+
+    return `${this.firstName} ${this.lastName}`;
+   
 }
-
-const freddie = new Chameleon();
-console.log(typeof freddie);
-console.log(freddie.newColor);
-//console.log(freddie.colorChange('orange'));
+Person.prototype.getFullName = function () {
+    return `${this.firstName} ${this.lastName}`;
+};
+const member = new Person('Lydia', 'Hallie');
+const member2 = Person('sara','smith');
+console.log(member);
+console.log(member2);
