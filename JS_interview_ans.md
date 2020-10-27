@@ -366,6 +366,27 @@ console.log(freddie.colorChange('orange'));
 The `colorChange` function is static. Static methods are designed to live only on the constructor in which they are created, and cannot be passed down to any children. Since `freddie` is a child, the function is not passed down, and not available on the `freddie` instance: a `TypeError` is thrown.
 
 </p>
+
+<p>References</p>
+
+[Static Method in JavaScript (Hindi)](https://www.youtube.com/watch?v=h4AwVIBsWLo)
+
+[Static properties and methods](https://javascript.info/static-properties-methods)
+
+[Object-oriented Programming in JavaScript: Made Super Simple | Mosh.](https://www.youtube.com/watch?v=PFmuCDHHpwk)
+
+[Introduction to Object Oriented Programming in JavaScript](https://www.geeksforgeeks.org/introduction-object-oriented-programming-javascript/)
+
+[JavaScript Object Constructors](https://www.w3schools.com/js/js_object_constructors.asp)
+
+[JavaScript OOP Crash Course (ES5 & ES6)](https://www.youtube.com/watch?v=vDJpGenyHaA)
+
+[JavaScript ES6: Classes](https://medium.com/@luke_smaki/javascript-es6-classes-8a34b0a6720a#:~:text=OOP%20in%20JavaScript%20with%20ES6&text=The%20class%20function%20basically%20creates,in%20the%20pre%2DES6%20example.)
+
+[JavaScript ES6: Object Destructuring](https://medium.com/@luke_smaki/javascript-es6-object-destructuring-6a8840eb3c7a)
+
+[Object-Oriented Programming in Javascript(ES5 & ES6) EXPLAINED.](https://dev.to/orighoprecious/object-oriented-programming-in-javascript-es5-es6-explained-4jbk)
+
 </details>
 
 ---
