@@ -578,7 +578,7 @@ During the **capturing** phase, the event goes through the ancestor elements dow
 
 [Object() constructor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/Object)
 
-[JavaScript | Object Constructors](https://www.geeksforgeeks.org/javascript-object-constructors/)
+
 #### Answer: B
 
 All objects have prototypes, except for the **base object**. The base object is the object created by the user, or an object that is created using the `new` keyword. The base object has access to some methods and properties, such as `.toString`. This is the reason why you can use built-in JavaScript methods! All of such methods are available on the prototype. Although JavaScript can't find it directly on your object, it goes down the prototype chain and finds it there, which makes it accessible for you.
