@@ -578,6 +578,8 @@ During the **capturing** phase, the event goes through the ancestor elements dow
 
 [Object() constructor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/Object)
 
+[JavaScript | Object Constructors](https://www.geeksforgeeks.org/javascript-object-constructors/)
+
 
 #### Answer: B
 
@@ -879,6 +881,27 @@ All object keys (excluding Symbols) are strings under the hood, even if you don'
 It doesn't work that way for a set. There is no `'1'` in our set: `set.has('1')` returns `false`. It has the numeric type `1`, `set.has(1)` returns `true`.
 
 </p>
+
+<p>References</p>
+
+[Data Type](https://javascript.info/data-types)
+
+[Map and Set](https://javascript.info/map-set)
+
+[JavaScript Language Ebook](https://javascript.info/js)
+
+[Understanding Map and Set in JavaScript](https://www.taniarascia.com/understanding-map-and-set-javascript/)
+
+[How to map/reduce/filter a Set in JavaScript?](https://stackoverflow.com/questions/33234666/how-to-map-reduce-filter-a-set-in-javascript)
+
+[Map in JavaScript](https://www.geeksforgeeks.org/map-in-javascript/)
+
+[Sets in JavaScript](https://www.geeksforgeeks.org/sets-in-javascript/)
+
+[How to map, reduce and filter a Set element using JavaScript ?](https://www.geeksforgeeks.org/how-to-map-reduce-and-filter-a-set-element-using-javascript/)
+
+[JavaScript Map and Set Explained](https://www.youtube.com/watch?v=hLgUTM3FOII)
+
 </details>
 
 ---
