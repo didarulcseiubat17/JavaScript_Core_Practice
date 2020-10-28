@@ -682,6 +682,16 @@ getPersonInfo`${person} is ${age} years old`;
 If you use tagged template literals, the value of the first argument is always an array of the string values. The remaining arguments get the values of the passed expressions!
 
 </p>
+
+<p>References</p>
+
+[Backticks calling a function](https://stackoverflow.com/questions/29660381/backticks-calling-a-function)
+
+[Template literals (Template strings)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+
+[Getting Literal With ES6 Template Strings](https://developers.google.com/web/updates/2015/01/ES6-Template-Strings)
+
+
 </details>
 
 ---
