@@ -954,6 +954,48 @@ If you have two keys with the same name, the key will be replaced. It will still
 The base execution context is the global execution context: it's what's accessible everywhere in your code.
 
 </p>
+
+<p>References</p>
+
+[Execution context, Scope chain and JavaScript internals](https://medium.com/@happymishra66/execution-context-in-javascript-319dd72e8e2c)
+
+[Understanding JavaScript Execution Context and How It Relates to Scope and the `this` Context](https://levelup.gitconnected.com/learn-javascript-fundamentals-scope-context-execution-context-9fe8673b3164)
+
+[JavaScript Execution Context](https://www.javascripttutorial.net/javascript-execution-context)
+
+[JavaScript Tutorial](https://www.javascripttutorial.net/)
+
+[JavaScript Hoisting](https://www.javascripttutorial.net/javascript-hoisting/)
+
+[JavaScript Variable Scopes](https://www.javascripttutorial.net/javascript-variable-scope/)
+
+[JavaScript Event Loop](https://www.javascripttutorial.net/javascript-event-loop/)
+
+[Node.js | Global Objects](https://www.geeksforgeeks.org/node-js-global-objects/)
+
+[Node.js : Global Objects](https://www.w3resource.com/node.js/nodejs-global-object.php)
+
+[What is the 'global' object in NodeJS](https://stackoverflow.com/questions/43627622/what-is-the-global-object-in-nodejs)
+
+[Meaning of “this” in node.js modules and functions](https://stackoverflow.com/questions/22770299/meaning-of-this-in-node-js-modules-and-functions)
+
+[What About this?](https://www.w3schools.com/js/js_arrow_function.asp)
+
+[Javascript ‘this’ Keyword, How it works?](https://medium.com/tech-tajawal/javascript-this-4-rules-7354abdb274c)
+
+[Understanding this keyword and its behavior in ES5 and ES6](https://medium.com/@siddiqr67/understanding-this-keyword-its-bindings-behavior-in-arrow-functions-6a8074b513c1)
+
+[JavaScript Scopes and Closures In-depth](https://www.youtube.com/watch?v=O312eN5J2bc&list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c)
+
+[Objects and Prototypes In-depth 01 - Introduction](https://www.youtube.com/watch?v=fBpPfPjxOhc&list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u)
+
+[JavaScript for Developers 01 - Introduction](https://www.youtube.com/watch?v=s6R0VEdoVt4&list=PLqq-6Pq4lTTYFJxC9NLJ7dSTI5Z1WWB6K)
+
+[How JavaScript Works in Hindi | JavaScript Executed Parser & JS Engine in Hindi](https://www.youtube.com/watch?v=VaBP6_pBOgM&list=PLwGdqUZWnOp0hSGwasCjbrWSPrEKqB_kz)
+
+[JavaScript The Execution Context Creation and Hoisting](https://www.youtube.com/watch?v=FJNRmUdLlfw)
+
+
 </details>
 
 ---
