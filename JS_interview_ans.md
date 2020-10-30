@@ -1226,6 +1226,34 @@ With both, we can pass the object to which we want the `this` keyword to refer t
 `.bind.` returns a _copy_ of the function, but with a bound context! It is not executed immediately.
 
 </p>
+
+<p>References</p>
+
+  [Javascript: call(), apply() and bind()](https://medium.com/@omergoldberg/javascript-call-apply-and-bind-e5c27301f7bb)
+
+  [Javascript call() & apply() vs bind()?](https://stackoverflow.com/questions/15455009/javascript-call-apply-vs-bind)
+
+  [call(), apply() and bind() Methods in JavaScript.](https://www.codingame.com/playgrounds/9799/learn-solve-call-apply-and-bind-methods-in-javascript)
+
+  [Function binding](https://javascript.info/bind)
+
+  [Advanced working with functions](https://javascript.info/advanced-functions)
+
+  [Understanding the "this" keyword, call, apply, and bind in JavaScript](https://ui.dev/this-keyword-call-apply-bind-javascript/)
+
+  [JavaScript Function Call](https://www.w3schools.com/js/js_function_call.asp)
+
+  [JavaScript Visualized: Scope (Chain)](https://dev.to/lydiahallie/javascript-visualized-scope-chain-13pd)
+
+  [CS Visualized: Useful Git Commands](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
+
+  [Interactive JavaScript Quiz #1](https://dev.to/lydiahallie/interactive-javascript-quiz-1-1flc)
+
+  [JavaScript Visualized: Promises & Async/Await](https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke)
+
+  
+
+
 </details>
 
 ---
