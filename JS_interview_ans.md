@@ -1251,8 +1251,13 @@ With both, we can pass the object to which we want the `this` keyword to refer t
 
   [JavaScript Visualized: Promises & Async/Await](https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke)
 
-  
+  [JavaScript bind() Method](https://www.javascripttutorial.net/javascript-bind/#:~:text=The%20bind()%20method%20creates,as%20function%20borrowing%20in%20JavaScript.)
 
+  [JavaScript Closures](https://www.javascripttutorial.net/javascript-closure/)
+
+  [JavaScript Recursive Function](https://www.javascripttutorial.net/javascript-recursive-function/)
+
+  [JavaScript Callbacks](https://www.javascripttutorial.net/javascript-callback/)
 
 </details>
 
