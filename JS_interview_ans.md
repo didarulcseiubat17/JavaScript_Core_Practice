@@ -1259,6 +1259,24 @@ With both, we can pass the object to which we want the `this` keyword to refer t
 
   [JavaScript Callbacks](https://www.javascripttutorial.net/javascript-callback/)
 
+  [Understanding the "this" keyword, call, apply, and bind in JavaScript](https://ui.dev/this-keyword-call-apply-bind-javascript/)
+
+  [JavaScript Functions are First-Class Citizens](https://www.javascripttutorial.net/javascript-functions-are-first-class-citizens/)
+
+
+  [Variable scope, closure](https://javascript.info/closure)
+
+  [A simple guide to help you understand closures in JavaScript](https://medium.com/@prashantramnyc/javascript-closures-simplified-d0d23fa06ba4)
+
+  [JavaScript Closure Tutorial – With JS Closure Example Code](https://www.freecodecamp.org/news/javascript-closure-tutorial-with-js-closure-example-code/)
+  
+  [Execution Context, Lexical Environment, and Closures in JavaScript](https://medium.com/better-programming/execution-context-lexical-environment-and-closures-in-javascript-b57c979341a5)
+
+  [Lexical Environment — The hidden part to understand Closures](https://medium.com/@5066aman/lexical-environment-the-hidden-part-to-understand-closures-71d60efac0e0)
+
+  [JavaScript The Global Environment and The Global Object](https://www.youtube.com/watch?v=byiUGKVeJuY)
+
+
 </details>
 
 ---
