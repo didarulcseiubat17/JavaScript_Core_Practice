@@ -1435,6 +1435,7 @@ Later, we set this block-scoped variable equal to `1`, and set the value of the 
 Outside of the `catch` block, `x` is still `undefined`, and `y` is `2`. When we want to `console.log(x)` outside of the `catch` block, it returns `undefined`, and `y` returns `2`.
 
 </p>
+[JavaScript Comma operator](https://www.geeksforgeeks.org/javascript-comma-operator/?ref=rp)
 </details>
 
 ---
@@ -1488,6 +1489,10 @@ What differentiates a primitive from an object is that primitives do not have an
 Then, `[1, 2, 0, 1]` is `acc` and `[2, 3]` is `cur`. We concatenate them, and get `[1, 2, 0, 1, 2, 3]`
 
 </p>
+
+<p>References</p>
+[JavaScript Array reduce & reduceRight: Reducing an Array Into a Value](https://www.javascripttutorial.net/javascript-array-reduce/)
+
 </details>
 
 ---
@@ -1540,6 +1545,8 @@ setInterval(() => console.log('Hi'), 1000);
 It returns a unique id. This id can be used to clear that interval with the `clearInterval()` function.
 
 </p>
+[javaScript setInterval](https://www.javascripttutorial.net/javascript-bom/javascript-setinterval/)
+[JavaScript Ternary Operator](https://www.geeksforgeeks.org/ternary-operator-question-mark-and-colon-in-javascript/?ref=rp)
 </details>
 
 ---
@@ -1563,6 +1570,10 @@ It returns a unique id. This id can be used to clear that interval with the `cle
 A string is an iterable. The spread operator maps every character of an iterable to one element.
 
 </p>
+<p>References</p>
+[JavaScript | Spread Operator](https://www.geeksforgeeks.org/javascript-spread-operator/)
+
+[JavaScript | Rest parameter](https://www.geeksforgeeks.org/javascript-rest-operator/)
 </details>
 
 ---
