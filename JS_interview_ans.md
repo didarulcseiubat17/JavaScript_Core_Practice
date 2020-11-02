@@ -1435,6 +1435,7 @@ Later, we set this block-scoped variable equal to `1`, and set the value of the 
 Outside of the `catch` block, `x` is still `undefined`, and `y` is `2`. When we want to `console.log(x)` outside of the `catch` block, it returns `undefined`, and `y` returns `2`.
 
 </p>
+
 [JavaScript Comma operator](https://www.geeksforgeeks.org/javascript-comma-operator/?ref=rp)
 </details>
 
@@ -1578,6 +1579,9 @@ A string is an iterable. The spread operator maps every character of an iterable
 [JavaScript | Spread Operator](https://www.geeksforgeeks.org/javascript-spread-operator/)
 
 [JavaScript | Rest parameter](https://www.geeksforgeeks.org/javascript-rest-operator/)
+
+[How to Use the Spread Operator (…) in JavaScript](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab)
+
 </details>
 
 ---
@@ -1644,6 +1648,15 @@ Promise.race([firstPromise, secondPromise]).then(res => console.log(res));
 When we pass multiple promises to the `Promise.race` method, it resolves/rejects the _first_ promise that resolves/rejects. To the `setTimeout` method, we pass a timer: 500ms for the first promise (`firstPromise`), and 100ms for the second promise (`secondPromise`). This means that the `secondPromise` resolves first with the value of `'two'`. `res` now holds the value of `'two'`, which gets logged.
 
 </p>
+
+<p>References</p>
+
+[The Definitive Guide to the JavaScript Promises](https://www.javascripttutorial.net/es6/javascript-promises/)
+
+[Scheduling: setTimeout and setInterval](https://javascript.info/settimeout-setinterval)
+
+[JavaScript setTimeout](https://www.javascripttutorial.net/javascript-bom/javascript-settimeout/)
+
 </details>
 
 ---
