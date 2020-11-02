@@ -1491,6 +1491,7 @@ Then, `[1, 2, 0, 1]` is `acc` and `[2, 3]` is `cur`. We concatenate them, and ge
 </p>
 
 <p>References</p>
+
 [JavaScript Array reduce & reduceRight: Reducing an Array Into a Value](https://www.javascripttutorial.net/javascript-array-reduce/)
 
 </details>
@@ -1545,7 +1546,9 @@ setInterval(() => console.log('Hi'), 1000);
 It returns a unique id. This id can be used to clear that interval with the `clearInterval()` function.
 
 </p>
+
 [javaScript setInterval](https://www.javascripttutorial.net/javascript-bom/javascript-setinterval/)
+
 [JavaScript Ternary Operator](https://www.geeksforgeeks.org/ternary-operator-question-mark-and-colon-in-javascript/?ref=rp)
 </details>
 
@@ -1571,6 +1574,7 @@ A string is an iterable. The spread operator maps every character of an iterable
 
 </p>
 <p>References</p>
+
 [JavaScript | Spread Operator](https://www.geeksforgeeks.org/javascript-spread-operator/)
 
 [JavaScript | Rest parameter](https://www.geeksforgeeks.org/javascript-rest-operator/)
