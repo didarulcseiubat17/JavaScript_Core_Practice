@@ -62,3 +62,6 @@
 [ES6 Interview Questions](https://www.javatpoint.com/es6-interview-questions)
 
 [jQuery Interview Question](https://www.javatpoint.com/jquery-interview-questions)
+
+[React vs Vue: What is the best choice for 2020?](https://www.mindk.com/blog/react-vs-vue/)
+

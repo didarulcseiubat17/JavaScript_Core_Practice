@@ -1,10 +1,6 @@
-function* generator(i) {
-  return Math.random();
+async function getData() {
+    return await Promise.resolve('I made it!');
 }
 
-const gen = generator(10);
-
-console.log(gen())
-console.log(gen.next().value);
-console.log(gen.next().value);
-console.log(gen.next().value);
+const data = getData();
+console.log(data.then(data=>console.log(data)));

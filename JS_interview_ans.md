@@ -2586,6 +2586,19 @@ If we wanted to get access to the resolved value `"I made it"`, we could have us
 This would've logged `"I made it!"`
 
 </p>
+
+<p>References</p>
+
+[JavaScript: Promises or async-await](https://medium.com/better-programming/should-i-use-promises-or-async-await-126ab5c98789#:~:text=async%20functions%20use%20an%20implicit,is%20passed%20through%20a%20promise.&text=await%20only%20blocks%20the%20code,executed%20when%20the%20promise%20resolves.)
+
+[Async/Await vs Promises — A Guide and Cheat Sheet](https://levelup.gitconnected.com/async-await-vs-promises-4fe98d11038f)
+
+[What is the difference between JavaScript promises and async await?](https://stackoverflow.com/questions/34401389/what-is-the-difference-between-javascript-promises-and-async-await)
+
+[Promises, async/await](https://javascript.info/async)
+
+
+
 </details>
 
 ---
@@ -2616,6 +2629,7 @@ The `.push()` method returns the _length_ of the new array! Previously, the arra
 The `push` method modifies the original array. If you wanted to return the _array_ from the function rather than the _length of the array_, you should have returned `list` after pushing `item` to it.
 
 </p>
+
 </details>
 
 ---
@@ -2751,6 +2765,24 @@ The second time, the `cache` object contains the value that gets returned for `1
 The third time, we pass `5 * 2` to the function which gets evaluated to `10`. The `cache` object contains the value that gets returned for `10`. The condition of the if-statement `num in cache` returns `true`, and `'From cache! 20'` gets logged.
 
 </p>
+
+<p>References</p>
+
+[Implementing Memoization in JavaScript](https://www.sitepoint.com/implementing-memoization-in-javascript/#:~:text=Memoized%20functions%20store%20a%20cache,before%20using%20as%20an%20index.)
+
+[How to use Memoize to cache JavaScript function results and speed up your code](https://www.freecodecamp.org/news/understanding-memoize-in-javascript-51d07d19430e/)
+
+[Understanding Memoization In JavaScript](https://scotch.io/tutorials/understanding-memoization-in-javascript)
+
+[Understanding JavaScript Memoization In 3 Minutes](https://codeburst.io/understanding-memoization-in-3-minutes-2e58daf33a19)
+
+[How To Cache Your Javascript Functions ? Meet the Memoization Technique!](https://dev.to/jadzeino/how-to-cache-your-javascript-functions-meet-the-memoization-technique-2i2l)
+
+[Understand how to Memoize a JavaScript function](https://dev.to/dhilipkmr/understand-how-to-memoize-a-javascript-function-3gal)
+
+[Memoized Fibonacci: Visualization of JS code execution](https://www.youtube.com/watch?v=hISXxjX6Ino)
+
+
 </details>
 
 ---
