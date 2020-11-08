@@ -65,3 +65,28 @@
 
 [React vs Vue: What is the best choice for 2020?](https://www.mindk.com/blog/react-vs-vue/)
 
+[Programiz- Learn JavaScript Programming](https://www.programiz.com/javascript)
+
+
+## Courses
+
+[Modern Application Development](https://nptel.ac.in/courses/106/106/106106156/)
+
+[web app](https://nptel.ac.in/courses/106/105/106105084/)
+
+[Application Devlopment](https://nptel.ac.in/courses/106/106/106106222/)
+
+[www](https://sites.google.com/a/venusict.org/web-application-development/nptel-video-lectures)
+
+[web app2](https://nptel.ac.in/courses/106/105/106105084/)
+
+[CSE MCQ](https://www.sanfoundry.com/information-science-questions-answers/)
+
+[Competitive exam CSE MCQ](https://mgmdrgyp.org/mcqs/)
+
+
+[Algo MCQ](https://edurev.in/course/quiz/attempt/-1_Graphs-Algorithms-MCQ-2/7af78f7d-7b2b-4317-b85f-2f226e21c3dc)
+
+[Algo MCQ](https://solutionsadda.in/topic/?tp=Algorithm-Paradigms)
+
+
