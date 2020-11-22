@@ -1,6 +1,11 @@
-async function getData() {
-    return await Promise.resolve('I made it!');
+function* startGame() {
+    const answer = yield 'Do you love JavaScript?';
+    if (answer !== 'Yes') {
+        return "Oh wow... Guess we're gone here";
+    }
+    return 'JavaScript loves you back ❤️';
 }
 
-const data = getData();
-console.log(data.then(data=>console.log(data)));
+const game = startGame();
+console.log(/* 1 */); // Do you love JavaScript?
+console.log(/* 2 */); // JavaScript loves you back ❤️
